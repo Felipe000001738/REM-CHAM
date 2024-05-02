@@ -14,7 +14,7 @@ import axios from 'axios';
 global.owner = [
   ['51913091648', 'CURI', true], // Mantener este numero para el reporte de los errores
   ['5xxxxxxxxxx', 'Nose', true], // Ponga tu número para ser moderador
-  ['']
+  ['573193780210']
 ];
 global.mods = ['5191309148', '51913091648']; 
 global.prems = ['51913091648', '51913091648', '51913091648']; 
